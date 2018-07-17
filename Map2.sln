@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map2.Plugins", "Map2.Plugins.csproj", "{58536E02-AF4F-FC4B-888E-8BAAEAD36573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map2", "Map2.csproj", "{BABC392D-AA89-2DAF-C4BE-A2720DD08BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map2.Editor.Plugins", "Map2.Editor.Plugins.csproj", "{6FFB03D7-C7AA-CC8E-E2E3-CA6AA45E08C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map2.Editor", "Map2.Editor.csproj", "{7192CCE2-E689-ED6B-ADF9-C2F210A76B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58536E02-AF4F-FC4B-888E-8BAAEAD36573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58536E02-AF4F-FC4B-888E-8BAAEAD36573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58536E02-AF4F-FC4B-888E-8BAAEAD36573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58536E02-AF4F-FC4B-888E-8BAAEAD36573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABC392D-AA89-2DAF-C4BE-A2720DD08BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABC392D-AA89-2DAF-C4BE-A2720DD08BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABC392D-AA89-2DAF-C4BE-A2720DD08BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABC392D-AA89-2DAF-C4BE-A2720DD08BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFB03D7-C7AA-CC8E-E2E3-CA6AA45E08C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFB03D7-C7AA-CC8E-E2E3-CA6AA45E08C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFB03D7-C7AA-CC8E-E2E3-CA6AA45E08C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFB03D7-C7AA-CC8E-E2E3-CA6AA45E08C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7192CCE2-E689-ED6B-ADF9-C2F210A76B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7192CCE2-E689-ED6B-ADF9-C2F210A76B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7192CCE2-E689-ED6B-ADF9-C2F210A76B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7192CCE2-E689-ED6B-ADF9-C2F210A76B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
